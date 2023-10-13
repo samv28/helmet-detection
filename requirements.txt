@@ -4,3 +4,4 @@ opencv-contrib-python-headless
 Numpy
 Streamlit
 Keras
+load_models
