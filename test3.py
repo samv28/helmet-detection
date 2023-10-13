@@ -48,7 +48,7 @@ def main():
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
 
     # Loading the model
-    model_path = 'D:\SIT\FIPL\helmet_detection_modeldd.h5' #model
+    model_path = 'helmet_detection_modeldd.h5' #model
     if 'model' not in st.session_state:
         st.session_state.model = load_cnn_model(model_path)
 
