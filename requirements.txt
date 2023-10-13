@@ -3,4 +3,4 @@ opencv-python-headless
 opencv-contrib-python-headless
 Numpy
 Streamlit
-Keras==2.4.3
+Keras.models
