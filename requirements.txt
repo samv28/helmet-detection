@@ -3,4 +3,3 @@ opencv-python-headless
 opencv-contrib-python-headless
 Numpy
 Streamlit
-Keras
