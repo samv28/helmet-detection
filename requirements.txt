@@ -3,3 +3,4 @@ opencv-python-headless
 opencv-contrib-python-headless
 numpy
 keras
+tensorflow
